@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.green {
+  color: #1ec677;
+}
+.call{
+    position: sticky;
+    top: 0;
+}
+.call a {
+  font-size: 1.5rem;
+  color: #1ec677;
+  font-weight: 500;
+}
+.hero h2 {
+  font-size: 4rem;
+  color: #1ec677;
+  font-weight: 500;
+}
+.hero h3 {
+  font-size: 3rem;
+  line-height: 80px;
+}
